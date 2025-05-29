@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "axial-glow-446907-m5",
+  "private_key_id": "78d77baec58993153b24136036902342f19e51d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQNzhtI/Zc4eDB\nNn8SW1N8DVW3vSnlaUQ2IyIA2cbmXo7WD8RTvOdBNeAK3Zq6Lw7f/9d9mhTlM9jD\n0mZRgS/NWVGJk5QbyB8efQLndwKtSOTfFIkUfp2p5FDl/XdoKbgVPIn9zJ89vE6b\nRJGJu4PSZD5KlJkA5ondYmc3IpxVRBArTGKnDCRc+BcFPyklK6+RK/p3qDdLuug/\nMazdUDnROJg3juo2XsH0RkwQL/PZ1T8t5AWPAmHc80uRa5EcFWg8YxHLp7l0JMZ6\nWbhrHtEflFkwiWyOE8g1+qMfINKQ9IYg/QO7Gtrb9KkInG1K36NmMb8+J5gz1xiZ\n95tBPYCvAgMBAAECggEAXYGHAiCF2YWI8UwfeedwkQPODGNTptaEzwktEpO6iqdJ\nXyGaif6KHhNrR4XooBdVB0x2gk4Jdzs27A4XbB/nj0E+6FlRyL4xF3iNrtQX7CkR\nu4sV2pHYDT1fBUI0dx9RL5xN3iAgHVHtPTZoY6HF29yvyr98DNb7b+PqtWyCJ5nH\nh2Wf5rW0DA7uLij1lfVEnomBqtmli1XFrZwr31hJfPNUuw4hE6Ek90JQih3CDtic\nwz11eGpt83Um4cCK15thGjCRmxHMuXamiEpfHuqaXGHhDhFkI/uXejI8W0+9xxNh\nP/gYwYsk8SOT7NaPWqjuhja4TpOJvCFv+ch2boVIeQKBgQDozktJqhh/9ELAIJ/e\nFCOP3KDKHUuDX1qYQc6OwEVuldLOFXQdUNJzFq/ShoKrLtIGhfIBE890/fqVyv1e\nGDTG3Ve0ueQB1/GvrgCea6t6WHT1h8KZD1z6nYZCSC+dVK0kaVE/GQoS467V4Gse\nI9ii8Ef0R6pfD9QprNmkUTCNRwKBgQDk9cF46JWFgar9qqBCzLV8fGRBDgCnyiD4\n6dtUrCtHU5+imMHvN6XrQmfgR/bKX8a99gXDzYPOalQIkcW+11dHujZzoZgE+mAr\n8sXlBOk6JMK3GwcK+jDxbNO9eYKSJYBWu6W5qvXVl9B1v4caEwg6BPljcYRvhSar\nNYi9y5YFWQKBgB0ixFVhzlMlNL1q19cpWhIFILJq3CqC4omvorRG5+mhIpLcKH4K\nwWvZ6QNGBlB6OZrLZLAx1ILlzli04OTHzsMcrH9XzGtWpU7BTh6Fhx52t5yK8xXI\n0HAlCsp80ki0cj7eV2a4MYSPri/iOEW7Yr9xpu+xkGb5Sio1Eb/40US9AoGAFXfZ\noT2lr3P+FXTnO/w31ClRuSvX8eOo/c3nq+PM1w5HPJa4MHb2Tr3WQZhd0pHyb6Ne\n3QIrJrKfmIIamY9VdrtGGceAGo9jbxt/ZL72I2aI/2RAX84fwrNikzSOgqeThg5o\nNqWKEXH/sNq5jz9TmSUYQTPGqDJC8vC9Fpa9RVkCgYEA0yyokD1bTtZiIidNVTdF\nGTcauedFs7KXxpr/0WxRwkoHRH0sThf5xRUrvpW/J/xkHIZL3WdvxuO53RoL62iP\nEaGz1q3QGEOuRxFGD4zDr2UZHusw0D/uxQTWy/2W5IBXDJQP/lFx7SRj1oQlXB0L\ns7fumjoP9jT4e5Qe0cItHiE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "moodmate@axial-glow-446907-m5.iam.gserviceaccount.com",
+  "client_id": "115226065220833057040",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/moodmate%40axial-glow-446907-m5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
